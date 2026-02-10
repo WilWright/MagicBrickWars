@@ -117,7 +117,7 @@ We also took the opportunity to add an XP Road screen that would help show playe
 And finally, we added monthly leaderboards for our ranked mode to keep competition from getting stale, as well as event leaderboards. Participating in the leaderboards would reward players with diamonds, which had added value from tiers and were now used to purchase chests for cosmetics and cards.
 |Leaderboards|
 |-|
-|![](README%20Files/leaderboards_popup.jpg)|
+|![](README%20Files/leaderboards_popup.png)|
 
 Overall there was minimal feedback from the community, most vocal players seemed ok with it, which made sense since our most vocal players were already subscribed and invested in the game, but we saw a dropoff in the general playerbase. I think we made too many changes at once and the game started drifting from the memory that players had of the original version. I'm still proud of all the value we brought to the game throughout these updates though, and it was great to see how we affected players' lives and bring back a cherised game that used to play. Considering this was the only update that didn't quite hit the mark I would say my time on this game was a huge success. At this point the company was happy with the current role that *Magic Brick Wars* played in the larger Halfbrick+ ecosystem and was ready for the team to start work on more Halfbrick+ features that would help elevate every game on the platform. This included more economy experiments and cohesive progression mechanics that would connect all the games together and create a more dedicated community.
 
